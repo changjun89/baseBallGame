@@ -1,6 +1,7 @@
 package nextstep.view;
 
-import com.nextstep.Result;
+
+import nextstep.Result;
 
 public class OutputView {
 
